@@ -1,0 +1,3 @@
+# This is the initial app . Will app more features soon....
+
+![image](https://github.com/AGENT-SRINJOY/fitness-guide/assets/100292962/29a083ec-6aea-4206-b8cc-d3a5f680ed46)
